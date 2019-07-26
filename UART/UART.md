@@ -3,6 +3,9 @@ La estructura interna de un módulo de comunicación UART consta principalmente 
 Los datos que se quieren transferir o recibir se agrupan en paquetes de datos, los cuales son transmitidos a través de un registro de desplazamiento. Esto hace que la velocidad a la que se transmiten viene dada por el BAUD especificado. La lógica de control es la encargada de agregar los bits de inicio y de final de transmisión.
 En la figura 1 se puede apreciar en mayor detalle en proceso interno y como es manejado este módulo UART.
 
+
+<img src="https://github.com/sbetancourtp/Proyecto_Candado_Inteligente/blob/master/UART/UART.PNG" width = "500" >
+
 El protocolo de comunicación UART (Universal Asynchronous Receiver Transmitter) funciona de forma dual, es decir, no cuenta con Maestro y Esclavo como la mayoría de protocolos.
 
 <img src="https://github.com/sbetancourtp/Proyecto_Candado_Inteligente/blob/master/UART/gene.PNG" width = "750" >
