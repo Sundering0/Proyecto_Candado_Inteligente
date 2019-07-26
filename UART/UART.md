@@ -4,7 +4,7 @@ Los datos que se quieren transferir o recibir se agrupan en paquetes de datos, l
 En la figura 1 se puede apreciar en mayor detalle en proceso interno y como es manejado este módulo UART.
 
 
-<img src="https://github.com/sbetancourtp/Proyecto_Candado_Inteligente/blob/master/UART/uart.PNG" width = "500" >
+<img src="https://github.com/sbetancourtp/Proyecto_Candado_Inteligente/blob/master/UART/https://github.com/Sundering0/Proyecto_Candado_Inteligente/blob/master/UART/uart.PNG" width = "500" >
 
 El protocolo de comunicación UART (Universal Asynchronous Receiver Transmitter) funciona de forma dual, es decir, no cuenta con Maestro y Esclavo como la mayoría de protocolos.
 
